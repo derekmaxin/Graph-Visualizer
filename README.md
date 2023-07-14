@@ -1,5 +1,5 @@
-    # A2 Graphs
-    Derek Maxin (dmaxin 20828472)
+    Graph visualizer to make math easy!
+    Derek Maxin
  
     ## Setup
     * Windows 10
